@@ -19,7 +19,10 @@ Poi utilizzarla per convertire una stringa inserita da utente:
     return 0;
     }
 
-    
+Effettuare vari test con codici binari 
 
+        11110000 -> 240
+     
+        00001111 -> 15
 
 
