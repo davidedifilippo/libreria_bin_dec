@@ -1,8 +1,8 @@
-# libreria bin_dec
+## libreria bin_dec
 
 La funzione converte una stringa binaria di 8 bit nel corrispondente valore decimale. Copiare il codice in un file ed eseguire un test con il codice main suggerito
 
-# Programma main
+## Programma main
 
 Nel programma main includere la libreria
 
@@ -25,7 +25,7 @@ Effettuare vari test con codici binari
      
     00001111 -> 15
     
-# libreria dec_bin
+## libreria dec_bin
 
 Nel programma main includere la libreria
 
