@@ -24,5 +24,16 @@ Effettuare vari test con codici binari
     11110000 -> 240
      
     00001111 -> 15
+    
+# libreria dec_bin
 
+Nel programma main includere la libreria
 
+ 
+    #include "dec_bin.h"
+    
+Chiedere all'utente di inserire un numero tra 0 e 255 e richiamare la funzione di calcolo:
+
+    cout << dec_bin(numero);
+
+ 
