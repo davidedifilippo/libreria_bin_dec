@@ -27,10 +27,9 @@ Effettuare vari test con codici binari
     
 ## libreria dec_bin
 
-Nel programma main includere la libreria
+La funzione converte un numero tra 0 e 255 in una stringa ad 8 bit. Nel programma main includere la libreria
 
- 
-    #include "dec_bin.h"
+      #include "dec_bin.h"
     
 Chiedere all'utente di inserire un numero tra 0 e 255 e richiamare la funzione di calcolo:
 
